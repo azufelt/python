@@ -4,6 +4,7 @@ As a software engineer I'm focused on using the best tech stack for the desired 
 
 This program is a basic to-do list, the user can add or delete items from their list. The data is recorded in a .txt file. 
 
+[Software Demo Video](https://youtu.be/Af_jSJ0XqOg)
 
 # Development Environment
 
